@@ -1,2 +1,13 @@
-@import "bootstrap";
+// bootstrap
+@import "custom-bootstrap";
+
+// fontawesome
 @import "font-awesome.min";
+
+// custom
+@import "utility";
+@import "buttons";
+@import "navbar";
+@import "typography";
+
+@import "home";
